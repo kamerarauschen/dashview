@@ -1,7 +1,7 @@
 === DashView ===
 Contributors: yesbloxX
 Tags: Dashboard, Wordpress, Plugin, Management, Overview, Alexa
-Tested up to: 3.1
+Tested up to: 3.8
 Requires at least: 3.0
 Requires: WordPress® 3.0+, PHP 5.2+
 
